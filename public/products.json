@@ -1,8 +1,145 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-12T10:00:49.625Z",
+  "generated_at": "2026-07-12T10:25:21.584Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 6,
+  "products": [
+    {
+      "id": "5a6d0664-2f58-4b20-a5ff-a0288843857a",
+      "slug": "slyym-lbn-plpy-copy-9gvtrq",
+      "name": "סליים לבן פלפי🤍 (Copy)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1783850833830-3kqc9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/slyym-lbn-plpy-copy-9gvtrq",
+      "categories": [],
+      "updated_at": "2026-07-12T10:24:00.098Z"
+    },
+    {
+      "id": "7bd1b4e9-76bd-4aa9-bb9b-e5ef59611360",
+      "slug": "splym-bkl-myny-tsbaym-akrayym-gmvteb",
+      "name": "ספלים בכל מיני צבעים אקראיים ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ורוד לבן טכלת אפור צהוב באחר פלפיים",
+      "sku": null,
+      "brand": null,
+      "price": 5,
+      "base_price": 5,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783851658277-2pplo9.webp",
+        "https://example.com/assets/product-1783851722099-731w8b.webp",
+        "https://example.com/assets/product-1783851749389-h1df7l.webp",
+        "https://example.com/assets/product-1783851779644-dsd3b.webp",
+        "https://example.com/assets/product-1783851805096-sc15is.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/splym-bkl-myny-tsbaym-akrayym-gmvteb",
+      "categories": [],
+      "updated_at": "2026-07-12T10:23:41.359Z"
+    },
+    {
+      "id": "539a423f-c859-4f71-ae03-e46aea00db40",
+      "slug": "slyym-tshvb-zvhr-bchvshk-fekn1o",
+      "name": "סליים צהוב זוהר בחושך 🌞",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 10,
+      "base_price": 15,
+      "sale_price": 10,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1783851567726-3l9fop.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/slyym-tshvb-zvhr-bchvshk-fekn1o",
+      "categories": [],
+      "updated_at": "2026-07-12T10:19:38.520Z"
+    },
+    {
+      "id": "4788d0b2-fca2-4f21-b5d0-c381f5927dc9",
+      "slug": "slyym-mym-39y6jw",
+      "name": "סליים מים 💧 ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סליים עם ראש של מים נעים",
+      "sku": null,
+      "brand": null,
+      "price": 20,
+      "base_price": 20,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1783851205491-hpih08.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/slyym-mym-39y6jw",
+      "categories": [],
+      "updated_at": "2026-07-12T10:13:49.349Z"
+    },
+    {
+      "id": "ff294cdc-8cc4-4d7d-840b-293ed65d62cc",
+      "slug": "slyym-klkrym-ktn-nlttyd",
+      "name": "סליים קלקרים קטן💖",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 5,
+      "base_price": 5,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1783851071103-vi9xkc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/slyym-klkrym-ktn-nlttyd",
+      "categories": [],
+      "updated_at": "2026-07-12T10:11:49.062Z"
+    },
+    {
+      "id": "42152433-7ce8-4a06-9a71-9a2abedb3400",
+      "slug": "slyym-lbn-plpy-d2p57c",
+      "name": "סליים לבן פלפי🤍",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הסליים הזה נוצר במחשבה רבה איך להכין אותו נכון אבל בהתחלה הוא היה סליים קוטג׳ ועכשיו הוא פלפי נעים נמתח וזהו.",
+      "sku": null,
+      "brand": null,
+      "price": 15,
+      "base_price": 15,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1783850833830-3kqc9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/slyym-lbn-plpy-d2p57c",
+      "categories": [],
+      "updated_at": "2026-07-12T10:09:23.444Z"
+    }
+  ]
 }

@@ -4,6 +4,83 @@
     <title>פינקיי סליים</title>
     <link>https://example.com</link>
     <description>Product feed for פינקיי סליים</description>
-    <lastBuildDate>Sun, 12 Jul 2026 10:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 10:25:21 GMT</lastBuildDate>
+    <item>
+      <g:id>5a6d0664-2f58-4b20-a5ff-a0288843857a</g:id>
+      <g:title>סליים לבן פלפי🤍 (Copy)</g:title>
+      <g:description>סליים לבן פלפי🤍 (Copy)</g:description>
+      <g:link>https://example.com/product/slyym-lbn-plpy-copy-9gvtrq</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1783850833830-3kqc9.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פינקיי סליים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>7bd1b4e9-76bd-4aa9-bb9b-e5ef59611360</g:id>
+      <g:title>ספלים בכל מיני צבעים אקראיים </g:title>
+      <g:description>ורוד לבן טכלת אפור צהוב באחר פלפיים</g:description>
+      <g:link>https://example.com/product/splym-bkl-myny-tsbaym-akrayym-gmvteb</g:link>
+      <g:image_link>https://example.com/assets/product-1783851658277-2pplo9.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783851722099-731w8b.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783851749389-h1df7l.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783851779644-dsd3b.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783851805096-sc15is.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>5.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פינקיי סליים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>539a423f-c859-4f71-ae03-e46aea00db40</g:id>
+      <g:title>סליים צהוב זוהר בחושך 🌞</g:title>
+      <g:description>סליים צהוב זוהר בחושך 🌞</g:description>
+      <g:link>https://example.com/product/slyym-tshvb-zvhr-bchvshk-fekn1o</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1783851567726-3l9fop.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:sale_price>10.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>פינקיי סליים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>4788d0b2-fca2-4f21-b5d0-c381f5927dc9</g:id>
+      <g:title>סליים מים 💧 </g:title>
+      <g:description>סליים עם ראש של מים נעים</g:description>
+      <g:link>https://example.com/product/slyym-mym-39y6jw</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1783851205491-hpih08.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>20.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פינקיי סליים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>ff294cdc-8cc4-4d7d-840b-293ed65d62cc</g:id>
+      <g:title>סליים קלקרים קטן💖</g:title>
+      <g:description>סליים קלקרים קטן💖</g:description>
+      <g:link>https://example.com/product/slyym-klkrym-ktn-nlttyd</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1783851071103-vi9xkc.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>5.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פינקיי סליים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>42152433-7ce8-4a06-9a71-9a2abedb3400</g:id>
+      <g:title>סליים לבן פלפי🤍</g:title>
+      <g:description>הסליים הזה נוצר במחשבה רבה איך להכין אותו נכון אבל בהתחלה הוא היה סליים קוטג׳ ועכשיו הוא פלפי נעים נמתח וזהו.</g:description>
+      <g:link>https://example.com/product/slyym-lbn-plpy-d2p57c</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1783850833830-3kqc9.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>פינקיי סליים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

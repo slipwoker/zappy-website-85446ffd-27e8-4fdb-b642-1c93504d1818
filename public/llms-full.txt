@@ -6063,3 +6063,47 @@ Description: פינקיי סליים - תודה רבה
 
 ---
 
+## Product Catalog
+
+### סליים לבן פלפי🤍 (Copy)
+URL: https://example.com/product/slyym-lbn-plpy-copy-9gvtrq
+Price: 15.00 ILS
+Availability: In stock
+
+---
+
+### ספלים בכל מיני צבעים אקראיים 
+URL: https://example.com/product/splym-bkl-myny-tsbaym-akrayym-gmvteb
+Price: 5.00 ILS
+Availability: In stock
+
+---
+
+### סליים צהוב זוהר בחושך 🌞
+URL: https://example.com/product/slyym-tshvb-zvhr-bchvshk-fekn1o
+Price: 10.00 ILS (sale, was 15.00 ILS)
+Availability: In stock
+
+---
+
+### סליים מים 💧 
+URL: https://example.com/product/slyym-mym-39y6jw
+Price: 20.00 ILS
+Availability: In stock
+
+---
+
+### סליים קלקרים קטן💖
+URL: https://example.com/product/slyym-klkrym-ktn-nlttyd
+Price: 5.00 ILS
+Availability: In stock
+
+---
+
+### סליים לבן פלפי🤍
+URL: https://example.com/product/slyym-lbn-plpy-d2p57c
+Price: 15.00 ILS
+Availability: In stock
+
+---
+

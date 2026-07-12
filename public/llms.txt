@@ -80,7 +80,46 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 6**
+
+### סליים לבן פלפי🤍 (Copy)
+https://example.com/product/slyym-lbn-plpy-copy-9gvtrq
+- Price: 15.00 ILS
+- Availability: In stock
+- Image: https://example.com/assets/product-enhanced-1783850833830-3kqc9.webp
+
+### ספלים בכל מיני צבעים אקראיים 
+https://example.com/product/splym-bkl-myny-tsbaym-akrayym-gmvteb
+- Price: 5.00 ILS
+- Availability: In stock
+- Description: ורוד לבן טכלת אפור צהוב באחר פלפיים
+- Image: https://example.com/assets/product-1783851658277-2pplo9.webp
+
+### סליים צהוב זוהר בחושך 🌞
+https://example.com/product/slyym-tshvb-zvhr-bchvshk-fekn1o
+- Price: 10.00 ILS (sale, was 15.00 ILS)
+- Availability: In stock
+- Image: https://example.com/assets/product-enhanced-1783851567726-3l9fop.webp
+
+### סליים מים 💧 
+https://example.com/product/slyym-mym-39y6jw
+- Price: 20.00 ILS
+- Availability: In stock
+- Description: סליים עם ראש של מים נעים
+- Image: https://example.com/assets/product-enhanced-1783851205491-hpih08.webp
+
+### סליים קלקרים קטן💖
+https://example.com/product/slyym-klkrym-ktn-nlttyd
+- Price: 5.00 ILS
+- Availability: In stock
+- Image: https://example.com/assets/product-enhanced-1783851071103-vi9xkc.webp
+
+### סליים לבן פלפי🤍
+https://example.com/product/slyym-lbn-plpy-d2p57c
+- Price: 15.00 ILS
+- Availability: In stock
+- Description: הסליים הזה נוצר במחשבה רבה איך להכין אותו נכון אבל בהתחלה הוא היה סליים קוטג׳ ועכשיו הוא פלפי נעים נמתח וזהו.
+- Image: https://example.com/assets/product-enhanced-1783850833830-3kqc9.webp
 
 ---
 
