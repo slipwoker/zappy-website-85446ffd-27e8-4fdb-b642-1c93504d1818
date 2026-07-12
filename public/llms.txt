@@ -1,0 +1,111 @@
+# פינקיי סליים — Generative Engine Optimization Map
+
+> A slime selling business focused on offering slime products, likely targeting children, teens, or slime enthusiasts. The brand revolves around a fun, colorful, and playful niche product that is popular in creative and sensory play communities.
+
+---
+
+## Pages
+
+### בית
+https://-85446ffd.zappy5.app
+הפלטפורמה המושלמת לרכישת סליים איכותי לעסקים קטנים. מלאי צבעוני, ניהול חכם ומשלוח מהיר. הצטרפו לאלפי לקוחות מרוצים וגלו חוויית קנייה מהנה במיוחד!
+
+### חוויית סליים
+https://-85446ffd.zappy5.app/slime-experience
+חוויית סליים ייחודית שמשלבת יצירתיות, צבע ומרקמים מפתיעים. גלו איך המוצרים שלנו הופכים כל רגע למשחק חושי סוחף. התחילו ליהנות עוד היום מהקסם הדביק!
+
+### אודות
+https://-85446ffd.zappy5.app/about
+מאחורי פינקיי סליים עומדת תשוקה אמיתית לעולם הסליים והמשחק היצירתי. למדו על החזון, הערכים והאנשים שמביאים לכם את המוצרים הכי צבעוניים ברשת. בואו להכיר מקרוב!
+
+### גלריה
+https://-85446ffd.zappy5.app/gallery
+גלריית תמונות וסרטונים של מיטב קולקציות הסליים שלנו. תנו לעיניים לחגוג על מרקמים נוצצים, צבעים מטריפים ועיצובים שרק מחכים שתגלו אותם. היכנסו והתאהבו!
+
+### צור קשר
+https://-85446ffd.zappy5.app/contact
+יש שאלה על מוצר או הזמנה מיוחדת? צוות פינקיי סליים כאן כדי לעזור. צרו קשר עוד היום ונחזור אליכם עם כל הפרטים, טיפים והמלצות שוות. הסליים המושלם מחכה לכם!
+
+### Products
+https://-85446ffd.zappy5.app/products
+המוצרים שלנו - פינקיי סליים
+
+### Cart
+https://-85446ffd.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-85446ffd.zappy5.app/checkout
+תשלום
+
+### Login
+https://-85446ffd.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-85446ffd.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-85446ffd.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-85446ffd.zappy5.app/product/:slug
+פרטי המוצר - פינקיי סליים
+
+### Category
+https://-85446ffd.zappy5.app/category/:slug
+מוצרים - פינקיי סליים
+
+### תודה רבה
+https://-85446ffd.zappy5.app/thank-you
+פינקיי סליים - תודה רבה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-85446ffd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-85446ffd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-85446ffd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פינקיי סליים
+A slime selling business focused on offering slime products, likely targeting children, teens, or slime enthusiasts. The brand revolves around a fun, colorful, and playful niche product that is popular in creative and sensory play communities.
+
+## Services/Products
+- מכירת סליים
+
+## Target Audience
+- צעירים יצירתיים
+- הורים לילדים חובבי יצירה
+- מורים לחוגי יצירה
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-85446ffd.zappy5.app/sitemap.xml
+- Robots: https://-85446ffd.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-85446ffd.zappy5.app/llms-full.txt
+- Products (JSON): https://-85446ffd.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-85446ffd.zappy5.app/product-feed.xml
