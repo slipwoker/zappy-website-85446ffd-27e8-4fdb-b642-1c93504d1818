@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://example.com
+https://pinkay-slime.zappy5.app
 הפלטפורמה המושלמת לרכישת סליים איכותי לעסקים קטנים. מלאי צבעוני, ניהול חכם ומשלוח מהיר. הצטרפו לאלפי לקוחות מרוצים וגלו חוויית קנייה מהנה במיוחד!
 
 ### חוויית סליים
-https://example.com/slime-experience
+https://pinkay-slime.zappy5.app/slime-experience
 חוויית סליים ייחודית שמשלבת יצירתיות, צבע ומרקמים מפתיעים. גלו איך המוצרים שלנו הופכים כל רגע למשחק חושי סוחף. התחילו ליהנות עוד היום מהקסם הדביק!
 
 ### אודות
-https://example.com/about
+https://pinkay-slime.zappy5.app/about
 מאחורי פינקיי סליים עומדת תשוקה אמיתית לעולם הסליים והמשחק היצירתי. למדו על החזון, הערכים והאנשים שמביאים לכם את המוצרים הכי צבעוניים ברשת. בואו להכיר מקרוב!
 
 ### גלריה
-https://example.com/gallery
+https://pinkay-slime.zappy5.app/gallery
 גלריית תמונות וסרטונים של מיטב קולקציות הסליים שלנו. תנו לעיניים לחגוג על מרקמים נוצצים, צבעים מטריפים ועיצובים שרק מחכים שתגלו אותם. היכנסו והתאהבו!
 
 ### צור קשר
-https://example.com/contact
+https://pinkay-slime.zappy5.app/contact
 יש שאלה על מוצר או הזמנה מיוחדת? צוות פינקיי סליים כאן כדי לעזור. צרו קשר עוד היום ונחזור אליכם עם כל הפרטים, טיפים והמלצות שוות. הסליים המושלם מחכה לכם!
 
 ### Products
-https://example.com/products
+https://pinkay-slime.zappy5.app/products
 המוצרים שלנו - פינקיי סליים
 
 ### Cart
-https://example.com/cart
+https://pinkay-slime.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://pinkay-slime.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://pinkay-slime.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://pinkay-slime.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://pinkay-slime.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://pinkay-slime.zappy5.app/product/:slug
 פרטי המוצר - פינקיי סליים
 
 ### Category
-https://example.com/category/:slug
+https://pinkay-slime.zappy5.app/category/:slug
 מוצרים - פינקיי סליים
 
 ### תודה רבה
-https://example.com/thank-you
+https://pinkay-slime.zappy5.app/thank-you
 פינקיי סליים - תודה רבה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://pinkay-slime.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://pinkay-slime.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://pinkay-slime.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -83,43 +83,43 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 6**
 
 ### סליים לבן פלפי🤍 (Copy)
-https://example.com/product/slyym-lbn-plpy-copy-9gvtrq
+https://pinkay-slime.zappy5.app/product/slyym-lbn-plpy-copy-9gvtrq
 - Price: 15.00 ILS
 - Availability: In stock
-- Image: https://example.com/assets/product-enhanced-1783850833830-3kqc9.webp
+- Image: https://pinkay-slime.zappy5.app/assets/product-enhanced-1783850833830-3kqc9.webp
 
 ### ספלים בכל מיני צבעים אקראיים 
-https://example.com/product/splym-bkl-myny-tsbaym-akrayym-gmvteb
+https://pinkay-slime.zappy5.app/product/splym-bkl-myny-tsbaym-akrayym-gmvteb
 - Price: 5.00 ILS
 - Availability: In stock
 - Description: ורוד לבן טכלת אפור צהוב באחר פלפיים
-- Image: https://example.com/assets/product-1783851658277-2pplo9.webp
+- Image: https://pinkay-slime.zappy5.app/assets/product-1783851658277-2pplo9.webp
 
 ### סליים צהוב זוהר בחושך 🌞
-https://example.com/product/slyym-tshvb-zvhr-bchvshk-fekn1o
+https://pinkay-slime.zappy5.app/product/slyym-tshvb-zvhr-bchvshk-fekn1o
 - Price: 10.00 ILS (sale, was 15.00 ILS)
 - Availability: In stock
-- Image: https://example.com/assets/product-enhanced-1783851567726-3l9fop.webp
+- Image: https://pinkay-slime.zappy5.app/assets/product-enhanced-1783851567726-3l9fop.webp
 
 ### סליים מים 💧 
-https://example.com/product/slyym-mym-39y6jw
+https://pinkay-slime.zappy5.app/product/slyym-mym-39y6jw
 - Price: 20.00 ILS
 - Availability: In stock
 - Description: סליים עם ראש של מים נעים
-- Image: https://example.com/assets/product-enhanced-1783851205491-hpih08.webp
+- Image: https://pinkay-slime.zappy5.app/assets/product-enhanced-1783851205491-hpih08.webp
 
 ### סליים קלקרים קטן💖
-https://example.com/product/slyym-klkrym-ktn-nlttyd
+https://pinkay-slime.zappy5.app/product/slyym-klkrym-ktn-nlttyd
 - Price: 5.00 ILS
 - Availability: In stock
-- Image: https://example.com/assets/product-enhanced-1783851071103-vi9xkc.webp
+- Image: https://pinkay-slime.zappy5.app/assets/product-enhanced-1783851071103-vi9xkc.webp
 
 ### סליים לבן פלפי🤍
-https://example.com/product/slyym-lbn-plpy-d2p57c
+https://pinkay-slime.zappy5.app/product/slyym-lbn-plpy-d2p57c
 - Price: 15.00 ILS
 - Availability: In stock
 - Description: הסליים הזה נוצר במחשבה רבה איך להכין אותו נכון אבל בהתחלה הוא היה סליים קוטג׳ ועכשיו הוא פלפי נעים נמתח וזהו.
-- Image: https://example.com/assets/product-enhanced-1783850833830-3kqc9.webp
+- Image: https://pinkay-slime.zappy5.app/assets/product-enhanced-1783850833830-3kqc9.webp
 
 ---
 
@@ -143,8 +143,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://pinkay-slime.zappy5.app/sitemap.xml
+- Robots: https://pinkay-slime.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://pinkay-slime.zappy5.app/llms-full.txt
+- Products (JSON): https://pinkay-slime.zappy5.app/products.json
+- Products (Google Merchant RSS): https://pinkay-slime.zappy5.app/product-feed.xml

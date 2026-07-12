@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-12T10:32:48.786Z",
-  "base_url": "https://example.com",
+  "generated_at": "2026-07-12T10:33:09.482Z",
+  "base_url": "https://pinkay-slime.zappy5.app",
   "currency": "ILS",
   "count": 6,
   "products": [
@@ -19,11 +19,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1783850833830-3kqc9.webp"
+        "https://pinkay-slime.zappy5.app/assets/product-enhanced-1783850833830-3kqc9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/slyym-lbn-plpy-copy-9gvtrq",
+      "url": "https://pinkay-slime.zappy5.app/product/slyym-lbn-plpy-copy-9gvtrq",
       "categories": [],
       "updated_at": "2026-07-12T10:24:00.098Z"
     },
@@ -41,15 +41,15 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1783851658277-2pplo9.webp",
-        "https://example.com/assets/product-1783851722099-731w8b.webp",
-        "https://example.com/assets/product-1783851749389-h1df7l.webp",
-        "https://example.com/assets/product-1783851779644-dsd3b.webp",
-        "https://example.com/assets/product-1783851805096-sc15is.webp"
+        "https://pinkay-slime.zappy5.app/assets/product-1783851658277-2pplo9.webp",
+        "https://pinkay-slime.zappy5.app/assets/product-1783851722099-731w8b.webp",
+        "https://pinkay-slime.zappy5.app/assets/product-1783851749389-h1df7l.webp",
+        "https://pinkay-slime.zappy5.app/assets/product-1783851779644-dsd3b.webp",
+        "https://pinkay-slime.zappy5.app/assets/product-1783851805096-sc15is.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/splym-bkl-myny-tsbaym-akrayym-gmvteb",
+      "url": "https://pinkay-slime.zappy5.app/product/splym-bkl-myny-tsbaym-akrayym-gmvteb",
       "categories": [],
       "updated_at": "2026-07-12T10:23:41.359Z"
     },
@@ -67,11 +67,11 @@
       "sale_price": 10,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1783851567726-3l9fop.webp"
+        "https://pinkay-slime.zappy5.app/assets/product-enhanced-1783851567726-3l9fop.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/slyym-tshvb-zvhr-bchvshk-fekn1o",
+      "url": "https://pinkay-slime.zappy5.app/product/slyym-tshvb-zvhr-bchvshk-fekn1o",
       "categories": [],
       "updated_at": "2026-07-12T10:19:38.520Z"
     },
@@ -89,11 +89,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1783851205491-hpih08.webp"
+        "https://pinkay-slime.zappy5.app/assets/product-enhanced-1783851205491-hpih08.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/slyym-mym-39y6jw",
+      "url": "https://pinkay-slime.zappy5.app/product/slyym-mym-39y6jw",
       "categories": [],
       "updated_at": "2026-07-12T10:13:49.349Z"
     },
@@ -111,11 +111,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1783851071103-vi9xkc.webp"
+        "https://pinkay-slime.zappy5.app/assets/product-enhanced-1783851071103-vi9xkc.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/slyym-klkrym-ktn-nlttyd",
+      "url": "https://pinkay-slime.zappy5.app/product/slyym-klkrym-ktn-nlttyd",
       "categories": [],
       "updated_at": "2026-07-12T10:11:49.062Z"
     },
@@ -133,11 +133,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1783850833830-3kqc9.webp"
+        "https://pinkay-slime.zappy5.app/assets/product-enhanced-1783850833830-3kqc9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/slyym-lbn-plpy-d2p57c",
+      "url": "https://pinkay-slime.zappy5.app/product/slyym-lbn-plpy-d2p57c",
       "categories": [],
       "updated_at": "2026-07-12T10:09:23.444Z"
     }
